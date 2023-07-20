@@ -52,11 +52,11 @@
     background-color: brown;
     color:blueviolet
 }
-.footer {
+footer {
     background-color: darkgrey;
     padding: 20px;
     text-align: center;
 }
-.footer p{
+footer p{
     margin: 0;
 }
