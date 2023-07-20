@@ -52,3 +52,11 @@
     background-color: brown;
     color:blueviolet
 }
+footer {
+    background-color: darkgrey;
+    padding: 20px;
+    text-align: center;
+}
+footer p{
+    margin: 0;
+}
